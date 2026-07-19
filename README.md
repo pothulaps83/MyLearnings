@@ -1,2 +1,3 @@
 # MyLearnings
 I am creating this for practice purpose only
+CREATE TABLE SEMPLOYEE_TBL (EID INT, ENAME VARCHAR, EDEPT VARCHAR, EADD VARCHAR, EEFFDT DATE, ESALARY NUMBER );
